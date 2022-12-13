@@ -1,2 +1,2 @@
 # Mehr_corpus
-In this repository, the Mehr corpus is placed.
+After the acceptance of the article, the Mehr corpus will be placed in this section.
