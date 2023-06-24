@@ -5,3 +5,5 @@
 - np : Noun phrases within corpus documents --> Automatic labels
 - Plain-text : Mehr corpus plain text
 - preproc : Mehr corpus preprocessed files with parser and pos tags for all documents.
+- Train and Dev Docs : 1- 357
+- Test Docs : 358 - 400
